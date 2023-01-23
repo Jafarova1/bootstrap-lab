@@ -1,0 +1,107 @@
+.search {
+    background-color: #EDF3F3;
+    height: 56px;
+    width:100%
+}
+
+.search input {
+    margin-top: 15px;
+    border: none;
+    background-color: #EDF3F3
+}
+
+.search span {
+    margin-top: 15px;
+}
+
+.row>* {
+    padding-left: 0px;
+    padding-right: 0px;
+
+}
+
+.nav-left {
+    margin-left: 20px;
+}
+
+.image {
+    border: 1px;
+    height: 300px;
+    width: 100%;
+   
+    background-image: url(https://preview.colorlib.com/theme/bona/images/slider-1.jpg);
+    background-size: cover;
+
+}
+
+.mini-box {
+
+    border: 1px solid white;
+    width: 50px;
+    height: 50px;
+    z-index: 1;
+    position: absolute;
+    margin-top: 160px;
+    margin-left: 120px;
+    background-image: url(https://preview.colorlib.com/theme/bona/images/icons8-team-355979.jpg);
+    background-size: cover;
+    border-radius: 30px;
+    background-color: white;
+    margin: 0 auto;
+    margin-top: -40px;
+    width: 70px;
+    height: 70px;
+    overflow: hidden;
+    z-index: 10;
+    border-radius: 100px;
+    position: relative;
+    border: 7px solid #fff;
+    box-shadow:
+
+}
+
+.card-body a {
+    text-decoration: none;
+    color: black;
+}
+
+.card1 {
+    margin-top: 60px;
+}
+
+.card2 {
+
+
+    margin-top: 60px;
+
+
+}
+
+.card3 {
+
+
+    margin-top: 60px;
+
+
+}
+.icons li{
+    list-style: none;
+    display: inline-block;
+
+
+   
+}
+
+
+.icons{
+   
+    display: flex;
+    align-content: space-around;
+    background-color: rgba(0, 0, 0, 0.125);;
+  
+}
+.icons ul{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
